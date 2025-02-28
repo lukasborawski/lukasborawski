@@ -1,10 +1,12 @@
 # Hi There! 🤘
 
-I'm Lukas – **SE** / **UID** from 🇵🇱 Poland, now living in sunny 🇵🇹 Portugal (Faro).
+I'm Lukas – **SE** / **UID** / **TL** from 🇵🇱 Poland, now living in sunny 🇵🇹 Portugal (Faro).
 
-With over **15 years** of 💻 **commercial experience**, I've had the pleasure of working with **corporates**, agile **software houses**, as well as super **dynamic startups**. Recently, I've been involved as a **Developer**, further as a **Successful Team Leader** on an amazing **open source ecommerce** front-end platform, [**Vue Storefront**](https://alokai.com/). 
+With over **15 years** of my 💻 **commercial experience**, I've had the pleasure of working with **corporates**, **software houses**, as well as **dynamically scaled startups**. I would say that my best environment to exist and thrive is an early / greenfield stage - less structured with multiple roles assigned. 
 
-When I'm not coding, I'm **organizing meetups**, giving **talks at conferences**, contributing to **open source**, and **mentoring** others. Currently, I'm busy **building my own product**(s) using a modern TypeScript / Nuxt / AI stack. I also offer technical consultancy on the side.
+Recently, I've been involved as a **Developer**, further as a **Successful Team Leader** (building couple of them) on an amazing, super fast-growing, **open source ecommerce** platform, [**Vue Storefront**](https://alokai.com/). Currently, I'm busy building my **own product**(s) using a modern TypeScript / Node / Vue / AI stack. I also offer interim technical support and consultancy on the side.
+
+When I'm not coding, I'm **organizing meetups**, giving **talks** at **conferences**, and contributing to **open source**. 
 
 Outside of tech, I'm: 
 * an avid 🚴 cyclist,
