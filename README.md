@@ -1,6 +1,6 @@
 # Hi There! 🤘
 
-I'm Lukas – **SE** from 🇵🇱 Poland, now living in sunny 🇵🇹 Portugal (Faro).
+I'm Lukas – **SE** / **UID** from 🇵🇱 Poland, now living in sunny 🇵🇹 Portugal (Faro).
 
 With over **15 years** of 💻 **commercial experience**, I've had the pleasure of working with **corporates**, agile **software houses**, as well as super **dynamic startups**. Recently, I've been involved as a **Developer**, further as a **Successful Team Leader** on an amazing **open source ecommerce** front-end platform, [**Vue Storefront**](https://alokai.com/). 
 
@@ -24,3 +24,9 @@ Feel free to explore my repositories – you might discover the perfect library 
 If you **want to talk** about anything above, please reach me out via [Email](mailto:lukasborawski@gmail.com), [LinkedIn](https://linkedin.com/in/lukasborawski), [Twitter](https://twitter.com/lukasborawski), or [Bluesky](https://bsky.app/profile/lukasborawski.bsky.social). 
 
 Let's **build something amazing** together! 🚀
+
+![https://www.typescriptlang.org/](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![https://nodejs.org/en](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![https://vuejs.org/](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![https://astro.build/](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
+![https://reactjs.com](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
