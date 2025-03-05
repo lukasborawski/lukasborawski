@@ -4,7 +4,7 @@ I'm Lukas – **SE** / **UID** / **TL** from 🇵🇱 Poland, now living in sunn
 
 With over **15 years** of my 💻 **commercial experience**, I've had the pleasure of working with **corporates**, **software houses**, as well as **dynamically scaled startups**. I would say that my best environment to exist and thrive is an early / greenfield stage - less structured with multiple roles assigned. 
 
-Recently, I've been involved as a **Developer**, further as a **Successful Team Leader** (building couple of them) on an amazing, super fast-growing, **open source ecommerce** platform, [**Vue Storefront**](https://alokai.com/). Currently, I'm busy building my **own product**(s) using a modern TypeScript / Node / Vue / AI stack. I also offer interim technical support and consultancy on the side.
+Recently, I've been involved as a **Developer**, further as a **Successful Team Leader** (building couple of them) on a super **fast-growing**, **open source**, **ecommerce** platform, [**Vue Storefront**](https://alokai.com/). Currently, I'm busy building my **own product**(s) using a modern TypeScript / Node / Vue / AI stack. I also offer interim technical support and consultancy on the side.
 
 When I'm not coding, I'm **organizing meetups**, giving **talks** at **conferences**, and contributing to **open source**. 
 
