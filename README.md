@@ -13,7 +13,7 @@ Outside of tech, I'm:
 * a data focused, AI trained 🏃 runner,
 * a modern 🎸 hardcore music fan,
 * a productivity 📚 books enthusiast,
-* an alternative ☕ coffee.
+* an alternative ☕ coffee taster.
 
 I **share my journey** and **insights** about:
 * programming on [medium](https://medium.com/@lukasborawski),
