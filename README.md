@@ -18,7 +18,6 @@ Outside of tech, I'm:
 I **share my journey** and **insights** about:
 * programming on [medium](https://medium.com/@lukasborawski),
 * vue/nuxt on [vue.house](https://vue.house/),
-* running on [thehalfhero.com](https://thehalfhero.com/),
 * music on [justbeforethedrop.com](https://justbeforethedrop.com/).
 
 Feel free to explore my repositories – you might discover the perfect library for your awesome project!
