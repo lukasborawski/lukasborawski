@@ -1,8 +1,8 @@
 # Hi There! 🤘
 
-I'm Lukas – **Software Engieneer**, **UI Designed**, **Tech Leader** from 🇵🇱 Poland / 🇵🇹 Portugal.
+I'm Lukas – **Software Engieneer** / **Tech Leader** from 🇵🇱 Poland / 🇵🇹 Portugal.
 
-With over **15 years** of my 💻 **commercial experience**, I've had the pleasure of working with **corporates**, **software houses**, as well as **dynamically scaled startups**. I would say that my best environment to exist and thrive is an early / greenfield stage - less structured with multiple roles assigned. 
+With over **15 years** of my 💻 **commercial experience**, I've had the pleasure of working with **corporates**, **software houses**, as well as **dynamically scaled startups**. I would say that my best environment to exist and thrive is an early / greenfield stage - less structured with multiple roles assigned.
 
 You can reach me out via [LinkedIn](https://linkedin.com/in/lukasborawski), [Twitter](https://twitter.com/lukasborawski), or [Bluesky](https://bsky.app/profile/lukasborawski.bsky.social). 
 
